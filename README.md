@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Just a CS student who writes code... until it's 3 AM.  
+  Just a CS student who writes clean code... until it's 3 AM.  
   Then it's pure <code>console.log("chaos")</code> ☕
 </p>
 
