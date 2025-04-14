@@ -2,10 +2,8 @@
   <img src="assets/banner.png" alt="Majid Hoseini Banner" />
 </p>
 
-<h1 align="center">Yo, I'm Majid 👋</h1>
 <p align="center">
-  Just a CS student who writes clean code... until it's 3 AM.  
-  Then it's pure <code>console.log("chaos")</code> ☕
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+Majid+%F0%9F%91%8B;Writes+clean+code...+until+3+AM.;Then+it's+console.log('chaos')+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,22 +11,14 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40" alt="Expo"/>
 </p>
-
----
-
-## 💡 Fun Facts
-
-- 🎮 I game hard and code harder (when my GPU isn’t crying).
-- 🧠 I fight data structures in the dark—with no debugger.
-- 💀 Padding issues are my arch-nemesis.
 
 ---
 
@@ -40,5 +30,5 @@
 ---
 
 <p align="center">
-  <i>Thanks for scrolling. If something broke, it’s probably a feature 😌</i>
+  <i>Thanks for scrolling. If my code broke, it’s probably a feature 😌</i>
 </p>
