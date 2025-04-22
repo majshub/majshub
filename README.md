@@ -29,14 +29,14 @@
 
 ### 🌐 Front-End Shenanigans
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### 🧱 Databases & Stuff
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -51,7 +51,7 @@
 
 ## 🌍 Where I Deploy My Madness
 
-<p>
+<palign="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
@@ -59,7 +59,7 @@
 
 ## 🌱 Currently Leveling Up In
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Learning-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
