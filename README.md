@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Majid Hoseini Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+Majid+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Majid+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -64,13 +60,6 @@
 </p>
 
 🧩 Still figuring out how to fix padding without the whole layout crying. 💀
-
----
-
-## 📫 Let’s Connect
-
-- 📧 [Email me](mailto:majhoseiny@gmail.com)
-- 🤖 [GitHub](https://github.com/majshub)
 
 ---
 
